@@ -1,2 +1,2 @@
 # hello-world
-this is a first repository for learning 
+this is the first repository for learning 
